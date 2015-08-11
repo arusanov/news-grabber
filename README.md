@@ -18,11 +18,11 @@ Use `-s` to parse social counters (longer)
 
 Output format:
 
-```json
+```js
 [
     {
        link: 'http://bitcoinwarrior.net/2015/01/ag-holder-ends-asset-seizures/',
-       text: '\n\nAG Holder Ends (Some) Asset Seizures\n\nBitcoin Media Watchnews Jan 17, 2015  \n\n\nThis just in from Ars Technica: Attorney General ...',
+       text: '\n\nAG Holder Ends (Some) Asset Seizures\n\nBitcoin ...',
        sharing: { vk: 0, gplus: 1, pinterest: 0, twitter: 29, linkedin: 4 }
     }
 ]
